@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Word Prediction</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            background-image: url('background_image.jpg'); /* Replace 'background_image.jpg' with your actual image file */
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+        #container {
+            margin: 0 auto;
+            width: 70%;
+            padding: 10px;
+            border: 9px solid #ccc;
+            border-radius: 10px;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+        #inputSentence {
+            width: 90%;
+            padding: 15px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: rgba(255, 255, 255, 0.8);
+            color: #333;
+        }
+        #suggestionList {
+            color: #eee;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Next Word Prediction</h1>
+        <p>This project uses a trained LSTM model to predict the next word as you type a sentence.</p>
+        <input type="text" id="inputSentence" placeholder="Type a sentence...">
+        <div id="suggestionList"></div>
+    </div>
+
+    <script>
+        // Function to fetch suggestions from the backend and update the HTML
+        function fetchSuggestions(inputSentence) {
+            $.ajax({
+                type: 'POST',
+                url: '/get_suggestions',
+                contentType: 'application/json',
+                data: JSON.stringify({ input_sentence: inputSentence }),
+                success: function(response) {
+                    var nextWord = response.suggestions;
+                    $('#suggestionList').text(nextWord);
+                }
+            });
+        }
+
+        // Event listener to fetch suggestions when user types in the input field
+        $('#inputSentence').on('input', function() {
+            var inputSentence = $(this).val();
+            fetchSuggestions(inputSentence);
+        });
+    </script>
+</body>
+</html>
