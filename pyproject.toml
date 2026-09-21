@@ -1,0 +1,28 @@
+[project]
+name = "next-word-prediction-lstm"
+version = "2.1.0"
+description = "Production-grade, ultra-low latency Next Word Prediction platform with recurrent neural architectures (Residual LSTM/GRU), FastAPI async WebSocket streaming, and a futuristic AI HUD interface."
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "tensorflow==2.15.0; sys_platform != 'win32'",
+    "tensorflow-intel==2.15.0; sys_platform == 'win32'",
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.28.0",
+    "flask>=3.0.0",
+    "numpy>=1.26.0,<2.0.0",
+    "requests>=2.31.0",
+    "pyyaml>=6.0.1",
+    "pydantic>=2.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.uv]
+package = false
+environments = [
+    "sys_platform == 'win32'",
+]

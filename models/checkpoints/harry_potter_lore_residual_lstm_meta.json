@@ -1,0 +1,17 @@
+{
+  "model_id": "harry_potter_lore_residual_lstm",
+  "name": "Harry Potter Lore (RESIDUAL_LSTM)",
+  "arch": "residual_lstm",
+  "input_length": 34,
+  "vocab_size": 410,
+  "model_filename": "harry_potter_lore_residual_lstm.keras",
+  "tokenizer_filename": "harry_potter_lore_residual_lstm_tokenizer.json",
+  "description": "Trained on harry_potter_lore.txt using RESIDUAL_LSTM architecture.",
+  "metrics": {
+    "final_loss": 0.1499,
+    "final_accuracy": 0.9713,
+    "perplexity": 1.16,
+    "epochs_trained": 15,
+    "train_duration_sec": 78.82
+  }
+}

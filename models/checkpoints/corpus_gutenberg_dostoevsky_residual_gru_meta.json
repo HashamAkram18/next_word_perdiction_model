@@ -1,0 +1,17 @@
+{
+  "model_id": "corpus_gutenberg_dostoevsky_residual_gru",
+  "name": "Corpus Gutenberg Dostoevsky (RESIDUAL_GRU)",
+  "arch": "residual_gru",
+  "input_length": 17,
+  "vocab_size": 5001,
+  "model_filename": "corpus_gutenberg_dostoevsky_residual_gru.keras",
+  "tokenizer_filename": "corpus_gutenberg_dostoevsky_residual_gru_tokenizer.json",
+  "description": "Trained on corpus_gutenberg_dostoevsky.txt using RESIDUAL_GRU architecture.",
+  "metrics": {
+    "final_loss": 2.4804,
+    "final_accuracy": 0.4082,
+    "perplexity": 11.95,
+    "epochs_trained": 20,
+    "train_duration_sec": 280.83
+  }
+}

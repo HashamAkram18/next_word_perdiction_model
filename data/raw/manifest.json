@@ -1,0 +1,2426 @@
+{
+  "generated_at": "2026-09-21T22:13:43+0500",
+  "total_chars": 51940838,
+  "files": [
+    {
+      "name": "alice_wonderland",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 11,
+      "url": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "license": "Public domain (US)",
+      "chars": 144529,
+      "path": "gutenberg\\alice_wonderland.txt"
+    },
+    {
+      "name": "anna_karenina",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1399,
+      "url": "https://www.gutenberg.org/files/1399/1399-0.txt",
+      "title": "",
+      "author": "",
+      "license": "Public domain (US)",
+      "chars": 1964472,
+      "path": "gutenberg\\anna_karenina.txt"
+    },
+    {
+      "name": "art_of_war",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 132,
+      "url": "https://www.gutenberg.org/cache/epub/132/pg132.txt",
+      "title": "The Art of War",
+      "author": "active 6th century B.C. Sunzi",
+      "license": "Public domain (US)",
+      "chars": 312377,
+      "path": "gutenberg\\art_of_war.txt"
+    },
+    {
+      "name": "beyond_good_and_evil",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 4363,
+      "url": "https://www.gutenberg.org/cache/epub/4363/pg4363.txt",
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Wilhelm Nietzsche",
+      "license": "Public domain (US)",
+      "chars": 382885,
+      "path": "gutenberg\\beyond_good_and_evil.txt"
+    },
+    {
+      "name": "dead_souls",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1081,
+      "url": "https://www.gutenberg.org/cache/epub/1081/pg1081.txt",
+      "title": "Dead Souls",
+      "author": "Nikolai Vasilevich Gogol",
+      "license": "Public domain (US)",
+      "chars": 810217,
+      "path": "gutenberg\\dead_souls.txt"
+    },
+    {
+      "name": "divine_comedy",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 8800,
+      "url": "https://www.gutenberg.org/cache/epub/8800/pg8800.txt",
+      "title": "The divine comedy",
+      "author": "Dante Alighieri",
+      "license": "Public domain (US)",
+      "chars": 604255,
+      "path": "gutenberg\\divine_comedy.txt"
+    },
+    {
+      "name": "don_quixote",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 996,
+      "url": "https://www.gutenberg.org/cache/epub/996/pg996.txt",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "license": "Public domain (US)",
+      "chars": 2297414,
+      "path": "gutenberg\\don_quixote.txt"
+    },
+    {
+      "name": "dorian_gray",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 174,
+      "url": "https://www.gutenberg.org/cache/epub/174/pg174.txt",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "license": "Public domain (US)",
+      "chars": 429220,
+      "path": "gutenberg\\dorian_gray.txt"
+    },
+    {
+      "name": "dracula",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 345,
+      "url": "https://www.gutenberg.org/cache/epub/345/pg345.txt",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "license": "Public domain (US)",
+      "chars": 845675,
+      "path": "gutenberg\\dracula.txt"
+    },
+    {
+      "name": "emma",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 158,
+      "url": "https://www.gutenberg.org/cache/epub/158/pg158.txt",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "license": "Public domain (US)",
+      "chars": 880173,
+      "path": "gutenberg\\emma.txt"
+    },
+    {
+      "name": "fathers_and_sons",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 30723,
+      "url": "https://www.gutenberg.org/cache/epub/30723/pg30723.txt",
+      "title": "Fathers and Children",
+      "author": "Ivan Sergeevich Turgenev",
+      "license": "Public domain (US)",
+      "chars": 428875,
+      "path": "gutenberg\\fathers_and_sons.txt"
+    },
+    {
+      "name": "frankenstein",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 84,
+      "url": "https://www.gutenberg.org/cache/epub/84/pg84.txt",
+      "title": "Frankenstein; or, the modern prometheus",
+      "author": "Mary Wollstonecraft Shelley",
+      "license": "Public domain (US)",
+      "chars": 419194,
+      "path": "gutenberg\\frankenstein.txt"
+    },
+    {
+      "name": "great_expectations",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1400,
+      "url": "https://www.gutenberg.org/cache/epub/1400/pg1400.txt",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "license": "Public domain (US)",
+      "chars": 994362,
+      "path": "gutenberg\\great_expectations.txt"
+    },
+    {
+      "name": "dostoevsky_36034",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 36034,
+      "url": "https://www.gutenberg.org/ebooks/36034.txt.utf-8",
+      "title": "White nights, and other stories",
+      "author": "Fyodor Dostoyevsky",
+      "license": "Public domain (US)",
+      "chars": 650030,
+      "path": "gutenberg\\gutendex\\dostoevsky_36034_white_nights_and_other_stories.txt"
+    },
+    {
+      "name": "dostoevsky_38241",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 38241,
+      "url": "https://www.gutenberg.org/ebooks/38241.txt.utf-8",
+      "title": "Uncle's Dream; and The Permanent Husband",
+      "author": "Fyodor Dostoyevsky",
+      "license": "Public domain (US)",
+      "chars": 563732,
+      "path": "gutenberg\\gutendex\\dostoevsky_38241_uncle_s_dream_and_the_permanent_husband.txt"
+    },
+    {
+      "name": "dostoevsky_40745",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 40745,
+      "url": "https://www.gutenberg.org/ebooks/40745.txt.utf-8",
+      "title": "Short Stories",
+      "author": "Fyodor Dostoyevsky",
+      "license": "Public domain (US)",
+      "chars": 446915,
+      "path": "gutenberg\\gutendex\\dostoevsky_40745_short_stories.txt"
+    },
+    {
+      "name": "dostoevsky_57050",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 57050,
+      "url": "https://www.gutenberg.org/ebooks/57050.txt.utf-8",
+      "title": "Stavrogin's Confession and The Plan of The Life of a Great Sinner",
+      "author": "Fyodor Dostoyevsky",
+      "license": "Public domain (US)",
+      "chars": 193943,
+      "path": "gutenberg\\gutendex\\dostoevsky_57050_stavrogin_s_confession_and_the_plan_of_t.txt"
+    },
+    {
+      "name": "dostoevsky_59196",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 59196,
+      "url": "https://www.gutenberg.org/ebooks/59196.txt.utf-8",
+      "title": "Index of the Project Gutenberg Works of Fyodor Dostoevsky",
+      "author": "Fyodor Dostoyevsky",
+      "license": "Public domain (US)",
+      "chars": 9546,
+      "path": "gutenberg\\gutendex\\dostoevsky_59196_index_of_the_project_gutenberg_works_of_.txt"
+    },
+    {
+      "name": "dostoevsky_8578",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 8578,
+      "url": "https://www.gutenberg.org/ebooks/8578.txt.utf-8",
+      "title": "The Grand Inquisitor",
+      "author": "Fyodor Dostoyevsky",
+      "license": "Public domain (US)",
+      "chars": 54593,
+      "path": "gutenberg\\gutendex\\dostoevsky_8578_the_grand_inquisitor.txt"
+    },
+    {
+      "name": "huckleberry_finn",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 76,
+      "url": "https://www.gutenberg.org/cache/epub/76/pg76.txt",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "license": "Public domain (US)",
+      "chars": 570864,
+      "path": "gutenberg\\huckleberry_finn.txt"
+    },
+    {
+      "name": "iliad",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 6130,
+      "url": "https://www.gutenberg.org/cache/epub/6130/pg6130.txt",
+      "title": "The Iliad",
+      "author": "Homer",
+      "license": "Public domain (US)",
+      "chars": 1097112,
+      "path": "gutenberg\\iliad.txt"
+    },
+    {
+      "name": "jane_eyre",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1260,
+      "url": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt",
+      "title": "Jane Eyre: An Autobiography",
+      "author": "Charlotte Brontë",
+      "license": "Public domain (US)",
+      "chars": 1022193,
+      "path": "gutenberg\\jane_eyre.txt"
+    },
+    {
+      "name": "jekyll_hyde",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 43,
+      "url": "https://www.gutenberg.org/cache/epub/43/pg43.txt",
+      "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "license": "Public domain (US)",
+      "chars": 138786,
+      "path": "gutenberg\\jekyll_hyde.txt"
+    },
+    {
+      "name": "les_miserables",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 135,
+      "url": "https://www.gutenberg.org/ebooks/135.txt.utf-8",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "license": "Public domain (US)",
+      "chars": 3225521,
+      "path": "gutenberg\\les_miserables.txt"
+    },
+    {
+      "name": "leviathan",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 3207,
+      "url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "license": "Public domain (US)",
+      "chars": 1210269,
+      "path": "gutenberg\\leviathan.txt"
+    },
+    {
+      "name": "meditations",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2680,
+      "url": "https://www.gutenberg.org/cache/epub/2680/pg2680.txt",
+      "title": "Meditations",
+      "author": "Emperor of Rome Marcus Aurelius",
+      "license": "Public domain (US)",
+      "chars": 398126,
+      "path": "gutenberg\\meditations.txt"
+    },
+    {
+      "name": "metamorphosis",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 5200,
+      "url": "https://www.gutenberg.org/cache/epub/5200/pg5200.txt",
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "license": "Public domain (US)",
+      "chars": 118406,
+      "path": "gutenberg\\metamorphosis.txt"
+    },
+    {
+      "name": "middlemarch",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 145,
+      "url": "https://www.gutenberg.org/cache/epub/145/pg145.txt",
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "license": "Public domain (US)",
+      "chars": 1779785,
+      "path": "gutenberg\\middlemarch.txt"
+    },
+    {
+      "name": "moby_dick",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2701,
+      "url": "https://www.gutenberg.org/ebooks/2701.txt.utf-8",
+      "title": "Moby Dick; Or, The Whale",
+      "author": "Herman Melville",
+      "license": "Public domain (US)",
+      "chars": 1218727,
+      "path": "gutenberg\\moby_dick.txt"
+    },
+    {
+      "name": "monte_cristo",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1184,
+      "url": "https://www.gutenberg.org/files/1184/1184-0.txt",
+      "title": "",
+      "author": "",
+      "license": "Public domain (US)",
+      "chars": 2626109,
+      "path": "gutenberg\\monte_cristo.txt"
+    },
+    {
+      "name": "odyssey",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1727,
+      "url": "https://www.gutenberg.org/cache/epub/1727/pg1727.txt",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "license": "Public domain (US)",
+      "chars": 678683,
+      "path": "gutenberg\\odyssey.txt"
+    },
+    {
+      "name": "paradise_lost",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 26,
+      "url": "https://www.gutenberg.org/cache/epub/26/pg26.txt",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "license": "Public domain (US)",
+      "chars": 459479,
+      "path": "gutenberg\\paradise_lost.txt"
+    },
+    {
+      "name": "poe_works_vol1",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2147,
+      "url": "https://www.gutenberg.org/cache/epub/2147/pg2147.txt",
+      "title": "The Works of Edgar Allan Poe — Volume 1",
+      "author": "Edgar Allan Poe",
+      "license": "Public domain (US)",
+      "chars": 571049,
+      "path": "gutenberg\\poe_works_vol1.txt"
+    },
+    {
+      "name": "pride_and_prejudice",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1342,
+      "url": "https://www.gutenberg.org/ebooks/1342.txt.utf-8",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "license": "Public domain (US)",
+      "chars": 728264,
+      "path": "gutenberg\\pride_and_prejudice.txt"
+    },
+    {
+      "name": "republic",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1497,
+      "url": "https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
+      "title": "The Republic",
+      "author": "Plato",
+      "license": "Public domain (US)",
+      "chars": 1194387,
+      "path": "gutenberg\\republic.txt"
+    },
+    {
+      "name": "shakespeare_complete",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 100,
+      "url": "https://www.gutenberg.org/cache/epub/100/pg100.txt",
+      "title": "The Complete Works of William Shakespeare",
+      "author": "William Shakespeare",
+      "license": "Public domain (US)",
+      "chars": 5357866,
+      "path": "gutenberg\\shakespeare_complete.txt"
+    },
+    {
+      "name": "sherlock_case_book",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 69700,
+      "url": "https://www.gutenberg.org/cache/epub/69700/pg69700.txt",
+      "title": "The case-book of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 453643,
+      "path": "gutenberg\\sherlock_case_book.txt"
+    },
+    {
+      "name": "sherlock_holmes",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1661,
+      "url": "https://www.gutenberg.org/cache/epub/1661/pg1661.txt",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 562137,
+      "path": "gutenberg\\sherlock_holmes.txt"
+    },
+    {
+      "name": "sherlock_hound",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2852,
+      "url": "https://www.gutenberg.org/cache/epub/2852/pg2852.txt",
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 354049,
+      "path": "gutenberg\\sherlock_hound.txt"
+    },
+    {
+      "name": "sherlock_last_bow",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2350,
+      "url": "https://www.gutenberg.org/cache/epub/2350/pg2350.txt",
+      "title": "His last bow",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 323786,
+      "path": "gutenberg\\sherlock_last_bow.txt"
+    },
+    {
+      "name": "sherlock_memoirs",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 834,
+      "url": "https://www.gutenberg.org/cache/epub/834/pg834.txt",
+      "title": "The Memoirs of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 569497,
+      "path": "gutenberg\\sherlock_memoirs.txt"
+    },
+    {
+      "name": "sherlock_return",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 108,
+      "url": "https://www.gutenberg.org/cache/epub/108/pg108.txt",
+      "title": "The Return of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 673623,
+      "path": "gutenberg\\sherlock_return.txt"
+    },
+    {
+      "name": "sherlock_sign_of_four",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2097,
+      "url": "https://www.gutenberg.org/cache/epub/2097/pg2097.txt",
+      "title": "The Sign of the Four",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 232067,
+      "path": "gutenberg\\sherlock_sign_of_four.txt"
+    },
+    {
+      "name": "sherlock_study_in_scarlet",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 244,
+      "url": "https://www.gutenberg.org/cache/epub/244/pg244.txt",
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 239349,
+      "path": "gutenberg\\sherlock_study_in_scarlet.txt"
+    },
+    {
+      "name": "sherlock_valley_of_fear",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 3289,
+      "url": "https://www.gutenberg.org/cache/epub/3289/pg3289.txt",
+      "title": "The Valley of Fear",
+      "author": "Arthur Conan Doyle",
+      "license": "Public domain (US)",
+      "chars": 313480,
+      "path": "gutenberg\\sherlock_valley_of_fear.txt"
+    },
+    {
+      "name": "tale_of_two_cities",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 98,
+      "url": "https://www.gutenberg.org/cache/epub/98/pg98.txt",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "license": "Public domain (US)",
+      "chars": 757406,
+      "path": "gutenberg\\tale_of_two_cities.txt"
+    },
+    {
+      "name": "the_prince",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1232,
+      "url": "https://www.gutenberg.org/cache/epub/1232/pg1232.txt",
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "license": "Public domain (US)",
+      "chars": 282492,
+      "path": "gutenberg\\the_prince.txt"
+    },
+    {
+      "name": "three_musketeers",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1257,
+      "url": "https://www.gutenberg.org/ebooks/1257.txt.utf-8",
+      "title": "The three musketeers",
+      "author": "Alexandre Dumas",
+      "license": "Public domain (US)",
+      "chars": 1297623,
+      "path": "gutenberg\\three_musketeers.txt"
+    },
+    {
+      "name": "time_machine",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 35,
+      "url": "https://www.gutenberg.org/cache/epub/35/pg35.txt",
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "license": "Public domain (US)",
+      "chars": 179629,
+      "path": "gutenberg\\time_machine.txt"
+    },
+    {
+      "name": "tom_sawyer",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 74,
+      "url": "https://www.gutenberg.org/cache/epub/74/pg74.txt",
+      "title": "The Adventures of Tom Sawyer, Complete",
+      "author": "Mark Twain",
+      "license": "Public domain (US)",
+      "chars": 392579,
+      "path": "gutenberg\\tom_sawyer.txt"
+    },
+    {
+      "name": "treasure_island",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 120,
+      "url": "https://www.gutenberg.org/cache/epub/120/pg120.txt",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "license": "Public domain (US)",
+      "chars": 364356,
+      "path": "gutenberg\\treasure_island.txt"
+    },
+    {
+      "name": "turn_of_the_screw",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 209,
+      "url": "https://www.gutenberg.org/cache/epub/209/pg209.txt",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "license": "Public domain (US)",
+      "chars": 228436,
+      "path": "gutenberg\\turn_of_the_screw.txt"
+    },
+    {
+      "name": "ulysses",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 4300,
+      "url": "https://www.gutenberg.org/cache/epub/4300/pg4300.txt",
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "license": "Public domain (US)",
+      "chars": 1519530,
+      "path": "gutenberg\\ulysses.txt"
+    },
+    {
+      "name": "walden",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 205,
+      "url": "https://www.gutenberg.org/cache/epub/205/pg205.txt",
+      "title": "Walden, and On The Duty Of Civil Disobedience",
+      "author": "Henry David Thoreau",
+      "license": "Public domain (US)",
+      "chars": 634689,
+      "path": "gutenberg\\walden.txt"
+    },
+    {
+      "name": "war_and_peace",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 2600,
+      "url": "https://www.gutenberg.org/cache/epub/2600/pg2600.txt",
+      "title": "War and Peace",
+      "author": "graf Leo Tolstoy",
+      "license": "Public domain (US)",
+      "chars": 3206589,
+      "path": "gutenberg\\war_and_peace.txt"
+    },
+    {
+      "name": "war_of_the_worlds",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 36,
+      "url": "https://www.gutenberg.org/cache/epub/36/pg36.txt",
+      "title": "The war of the worlds",
+      "author": "H. G. Wells",
+      "license": "Public domain (US)",
+      "chars": 337298,
+      "path": "gutenberg\\war_of_the_worlds.txt"
+    },
+    {
+      "name": "wuthering_heights",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 768,
+      "url": "https://www.gutenberg.org/cache/epub/768/pg768.txt",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "license": "Public domain (US)",
+      "chars": 645457,
+      "path": "gutenberg\\wuthering_heights.txt"
+    },
+    {
+      "name": "zarathustra",
+      "source": "Project Gutenberg",
+      "gutenberg_id": 1998,
+      "url": "https://www.gutenberg.org/cache/epub/1998/pg1998.txt",
+      "title": "Thus Spake Zarathustra: A Book for All and None",
+      "author": "Friedrich Wilhelm Nietzsche",
+      "license": "Public domain (US)",
+      "chars": 636924,
+      "path": "gutenberg\\zarathustra.txt"
+    },
+    {
+      "name": "Wikipedia:Crime and Punishment",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Crime_and_Punishment",
+      "license": "CC BY-SA 4.0",
+      "chars": 49283,
+      "path": "wikipedia\\dostoevsky\\crime_and_punishment.txt"
+    },
+    {
+      "name": "Wikipedia:Demons (Dostoevsky novel)",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Demons_(Dostoevsky_novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 65445,
+      "path": "wikipedia\\dostoevsky\\demons_dostoevsky_novel.txt"
+    },
+    {
+      "name": "Wikipedia:Existentialism",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Existentialism",
+      "license": "CC BY-SA 4.0",
+      "chars": 57851,
+      "path": "wikipedia\\dostoevsky\\existentialism.txt"
+    },
+    {
+      "name": "Wikipedia:Fyodor Dostoevsky",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Fyodor_Dostoevsky",
+      "license": "CC BY-SA 4.0",
+      "chars": 65490,
+      "path": "wikipedia\\dostoevsky\\fyodor_dostoevsky.txt"
+    },
+    {
+      "name": "Wikipedia:Humiliated and Insulted",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Humiliated_and_Insulted",
+      "license": "CC BY-SA 4.0",
+      "chars": 5083,
+      "path": "wikipedia\\dostoevsky\\humiliated_and_insulted.txt"
+    },
+    {
+      "name": "Wikipedia:Netochka Nezvanova",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Netochka_Nezvanova",
+      "license": "CC BY-SA 4.0",
+      "chars": 5962,
+      "path": "wikipedia\\dostoevsky\\netochka_nezvanova.txt"
+    },
+    {
+      "name": "Wikipedia:Nihilism",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Nihilism",
+      "license": "CC BY-SA 4.0",
+      "chars": 35851,
+      "path": "wikipedia\\dostoevsky\\nihilism.txt"
+    },
+    {
+      "name": "Wikipedia:Notes from Underground",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Notes_from_Underground",
+      "license": "CC BY-SA 4.0",
+      "chars": 17032,
+      "path": "wikipedia\\dostoevsky\\notes_from_underground.txt"
+    },
+    {
+      "name": "Wikipedia:Poor Folk",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Poor_Folk",
+      "license": "CC BY-SA 4.0",
+      "chars": 18104,
+      "path": "wikipedia\\dostoevsky\\poor_folk.txt"
+    },
+    {
+      "name": "Wikipedia:Russian literature",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/Russian_literature",
+      "license": "CC BY-SA 4.0",
+      "chars": 62883,
+      "path": "wikipedia\\dostoevsky\\russian_literature.txt"
+    },
+    {
+      "name": "Wikipedia:The Adolescent",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adolescent",
+      "license": "CC BY-SA 4.0",
+      "chars": 7475,
+      "path": "wikipedia\\dostoevsky\\the_adolescent.txt"
+    },
+    {
+      "name": "Wikipedia:The Brothers Karamazov",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Brothers_Karamazov",
+      "license": "CC BY-SA 4.0",
+      "chars": 39465,
+      "path": "wikipedia\\dostoevsky\\the_brothers_karamazov.txt"
+    },
+    {
+      "name": "Wikipedia:The Double (Dostoevsky novel)",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Double_(Dostoevsky_novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 4794,
+      "path": "wikipedia\\dostoevsky\\the_double_a_petersburg_poem.txt"
+    },
+    {
+      "name": "Wikipedia:The Double (Dostoevsky novel)",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Double_(Dostoevsky_novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 4794,
+      "path": "wikipedia\\dostoevsky\\the_double_dostoevsky_novel.txt"
+    },
+    {
+      "name": "Wikipedia:The Eternal Husband",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Eternal_Husband",
+      "license": "CC BY-SA 4.0",
+      "chars": 2524,
+      "path": "wikipedia\\dostoevsky\\the_eternal_husband.txt"
+    },
+    {
+      "name": "Wikipedia:The Gambler (novel)",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Gambler_(novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 11594,
+      "path": "wikipedia\\dostoevsky\\the_gambler_novel.txt"
+    },
+    {
+      "name": "Wikipedia:The House of the Dead (novel)",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_House_of_the_Dead_(novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 13743,
+      "path": "wikipedia\\dostoevsky\\the_house_of_the_dead_novel.txt"
+    },
+    {
+      "name": "Wikipedia:The Idiot",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Idiot",
+      "license": "CC BY-SA 4.0",
+      "chars": 65305,
+      "path": "wikipedia\\dostoevsky\\the_idiot.txt"
+    },
+    {
+      "name": "Wikipedia:The Village of Stepanchikovo",
+      "source": "Wikipedia",
+      "topic": "dostoevsky",
+      "url": "https://en.wikipedia.org/w/wiki/The_Village_of_Stepanchikovo",
+      "license": "CC BY-SA 4.0",
+      "chars": 5331,
+      "path": "wikipedia\\dostoevsky\\the_village_of_stepanchikovo.txt"
+    },
+    {
+      "name": "Wikipedia:Frankenstein",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Frankenstein",
+      "license": "CC BY-SA 4.0",
+      "chars": 29944,
+      "path": "wikipedia\\frankenstein\\frankenstein.txt"
+    },
+    {
+      "name": "Wikipedia:Frankenstein's monster",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Frankenstein's_monster",
+      "license": "CC BY-SA 4.0",
+      "chars": 28924,
+      "path": "wikipedia\\frankenstein\\frankenstein_s_monster.txt"
+    },
+    {
+      "name": "Wikipedia:Gothic fiction",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Gothic_fiction",
+      "license": "CC BY-SA 4.0",
+      "chars": 51959,
+      "path": "wikipedia\\frankenstein\\gothic_fiction.txt"
+    },
+    {
+      "name": "Wikipedia:Mary Shelley",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Mary_Shelley",
+      "license": "CC BY-SA 4.0",
+      "chars": 64041,
+      "path": "wikipedia\\frankenstein\\mary_shelley.txt"
+    },
+    {
+      "name": "Wikipedia:Romanticism",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Romanticism",
+      "license": "CC BY-SA 4.0",
+      "chars": 83118,
+      "path": "wikipedia\\frankenstein\\romanticism.txt"
+    },
+    {
+      "name": "Wikipedia:Science fiction",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Science_fiction",
+      "license": "CC BY-SA 4.0",
+      "chars": 37701,
+      "path": "wikipedia\\frankenstein\\science_fiction.txt"
+    },
+    {
+      "name": "Wikipedia:Victor Frankenstein",
+      "source": "Wikipedia",
+      "topic": "frankenstein",
+      "url": "https://en.wikipedia.org/w/wiki/Victor_Frankenstein",
+      "license": "CC BY-SA 4.0",
+      "chars": 55032,
+      "path": "wikipedia\\frankenstein\\victor_frankenstein.txt"
+    },
+    {
+      "name": "Wikipedia:Albus Dumbledore",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Albus_Dumbledore",
+      "license": "CC BY-SA 4.0",
+      "chars": 23635,
+      "path": "wikipedia\\harry_potter\\albus_dumbledore.txt"
+    },
+    {
+      "name": "Wikipedia:Bellatrix Lestrange",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Bellatrix_Lestrange",
+      "license": "CC BY-SA 4.0",
+      "chars": 8713,
+      "path": "wikipedia\\harry_potter\\bellatrix_lestrange.txt"
+    },
+    {
+      "name": "Wikipedia:Blaise Zabini",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Blaise_Zabini",
+      "license": "CC BY-SA 4.0",
+      "chars": 8217,
+      "path": "wikipedia\\harry_potter\\blaise_zabini.txt"
+    },
+    {
+      "name": "Wikipedia:Death Eater",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Death_Eater",
+      "license": "CC BY-SA 4.0",
+      "chars": 25221,
+      "path": "wikipedia\\harry_potter\\death_eater.txt"
+    },
+    {
+      "name": "Wikipedia:Diagon Alley",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Diagon_Alley",
+      "license": "CC BY-SA 4.0",
+      "chars": 6243,
+      "path": "wikipedia\\harry_potter\\diagon_alley.txt"
+    },
+    {
+      "name": "Wikipedia:Dolores Umbridge",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Dolores_Umbridge",
+      "license": "CC BY-SA 4.0",
+      "chars": 14219,
+      "path": "wikipedia\\harry_potter\\dolores_umbridge.txt"
+    },
+    {
+      "name": "Wikipedia:Draco Malfoy",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Draco_Malfoy",
+      "license": "CC BY-SA 4.0",
+      "chars": 25474,
+      "path": "wikipedia\\harry_potter\\draco_malfoy.txt"
+    },
+    {
+      "name": "Wikipedia:Fictional universe of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Fictional_universe_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 19382,
+      "path": "wikipedia\\harry_potter\\fictional_universe_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Fred and George Weasley",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Fred_and_George_Weasley",
+      "license": "CC BY-SA 4.0",
+      "chars": 10014,
+      "path": "wikipedia\\harry_potter\\fred_and_george_weasley.txt"
+    },
+    {
+      "name": "Wikipedia:Genius (American TV series)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Genius_(American_TV_series)",
+      "license": "CC BY-SA 4.0",
+      "chars": 9525,
+      "path": "wikipedia\\harry_potter\\genius_american_tv_series.txt"
+    },
+    {
+      "name": "Wikipedia:Ginny Weasley",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Ginny_Weasley",
+      "license": "CC BY-SA 4.0",
+      "chars": 6973,
+      "path": "wikipedia\\harry_potter\\ginny_weasley.txt"
+    },
+    {
+      "name": "Wikipedia:Hagrid",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hagrid",
+      "license": "CC BY-SA 4.0",
+      "chars": 14494,
+      "path": "wikipedia\\harry_potter\\hagrid.txt"
+    },
+    {
+      "name": "Wikipedia:Harry and the Potters",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_and_the_Potters",
+      "license": "CC BY-SA 4.0",
+      "chars": 18554,
+      "path": "wikipedia\\harry_potter\\harry_and_the_potters.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Melling",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Melling",
+      "license": "CC BY-SA 4.0",
+      "chars": 4082,
+      "path": "wikipedia\\harry_potter\\harry_melling.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 61627,
+      "path": "wikipedia\\harry_potter\\harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter 20th Anniversary: Return to Hogwarts",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_20th_Anniversary:_Return_to_Hogwarts",
+      "license": "CC BY-SA 4.0",
+      "chars": 4000,
+      "path": "wikipedia\\harry_potter\\harry_potter_20th_anniversary_return_to_hogwarts.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: A History of Magic",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_A_History_of_Magic",
+      "license": "CC BY-SA 4.0",
+      "chars": 6542,
+      "path": "wikipedia\\harry_potter\\harry_potter_a_history_of_magic.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Chamber of Secrets",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
+      "license": "CC BY-SA 4.0",
+      "chars": 16308,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_chamber_of_secrets.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Chamber of Secrets (film)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)",
+      "license": "CC BY-SA 4.0",
+      "chars": 23637,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_chamber_of_secrets_film.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Deathly Hallows",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Deathly_Hallows",
+      "license": "CC BY-SA 4.0",
+      "chars": 29394,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_deathly_hallows.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Escape from Gringotts",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Escape_from_Gringotts",
+      "license": "CC BY-SA 4.0",
+      "chars": 8733,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_escape_from_gringotts.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Forbidden Journey",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Forbidden_Journey",
+      "license": "CC BY-SA 4.0",
+      "chars": 15545,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_forbidden_journey.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Goblet of Fire",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+      "license": "CC BY-SA 4.0",
+      "chars": 13385,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_goblet_of_fire.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Goblet of Fire (film)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)",
+      "license": "CC BY-SA 4.0",
+      "chars": 33176,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_goblet_of_fire_film.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Half-Blood Prince",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Half-Blood_Prince",
+      "license": "CC BY-SA 4.0",
+      "chars": 17388,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_half_blood_prince.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Methods of Rationality",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Methods_of_Rationality",
+      "license": "CC BY-SA 4.0",
+      "chars": 11591,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_methods_of_rationality.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Order of the Phoenix",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
+      "license": "CC BY-SA 4.0",
+      "chars": 8402,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_order_of_the_phoenix.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Order of the Phoenix (film)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)",
+      "license": "CC BY-SA 4.0",
+      "chars": 36200,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_order_of_the_phoenix_film.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Philosopher's Stone",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Philosopher's_Stone",
+      "license": "CC BY-SA 4.0",
+      "chars": 32105,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_philosopher_s_stone.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Philosopher's Stone (film)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Philosopher's_Stone_(film)",
+      "license": "CC BY-SA 4.0",
+      "chars": 39498,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_philosopher_s_stone_film.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Prisoner of Azkaban",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+      "license": "CC BY-SA 4.0",
+      "chars": 11374,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_prisoner_of_azkaban.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter and the Prisoner of Azkaban (film)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)",
+      "license": "CC BY-SA 4.0",
+      "chars": 32590,
+      "path": "wikipedia\\harry_potter\\harry_potter_and_the_prisoner_of_azkaban_film.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter (character)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_(character)",
+      "license": "CC BY-SA 4.0",
+      "chars": 19482,
+      "path": "wikipedia\\harry_potter\\harry_potter_character.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter fandom",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_fandom",
+      "license": "CC BY-SA 4.0",
+      "chars": 38034,
+      "path": "wikipedia\\harry_potter\\harry_potter_fandom.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter (film series)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_(film_series)",
+      "license": "CC BY-SA 4.0",
+      "chars": 43896,
+      "path": "wikipedia\\harry_potter\\harry_potter_film_series.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: Hogwarts Mystery",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_Hogwarts_Mystery",
+      "license": "CC BY-SA 4.0",
+      "chars": 5580,
+      "path": "wikipedia\\harry_potter\\harry_potter_hogwarts_mystery.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: Hogwarts Tournament of Houses",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_Hogwarts_Tournament_of_Houses",
+      "license": "CC BY-SA 4.0",
+      "chars": 2168,
+      "path": "wikipedia\\harry_potter\\harry_potter_hogwarts_tournament_of_houses.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter in amusement parks",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_in_amusement_parks",
+      "license": "CC BY-SA 4.0",
+      "chars": 5768,
+      "path": "wikipedia\\harry_potter\\harry_potter_in_amusement_parks.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter influences and analogues",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_influences_and_analogues",
+      "license": "CC BY-SA 4.0",
+      "chars": 35690,
+      "path": "wikipedia\\harry_potter\\harry_potter_influences_and_analogues.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: Magic Awakened",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_Magic_Awakened",
+      "license": "CC BY-SA 4.0",
+      "chars": 4026,
+      "path": "wikipedia\\harry_potter\\harry_potter_magic_awakened.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: Quidditch Champions",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_Quidditch_Champions",
+      "license": "CC BY-SA 4.0",
+      "chars": 4749,
+      "path": "wikipedia\\harry_potter\\harry_potter_quidditch_champions.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: Quidditch World Cup",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_Quidditch_World_Cup",
+      "license": "CC BY-SA 4.0",
+      "chars": 11211,
+      "path": "wikipedia\\harry_potter\\harry_potter_quidditch_world_cup.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: The Exhibition",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_The_Exhibition",
+      "license": "CC BY-SA 4.0",
+      "chars": 2406,
+      "path": "wikipedia\\harry_potter\\harry_potter_the_exhibition.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter Trading Card Game",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_Trading_Card_Game",
+      "license": "CC BY-SA 4.0",
+      "chars": 9164,
+      "path": "wikipedia\\harry_potter\\harry_potter_trading_card_game.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter (TV series)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_(TV_series)",
+      "license": "CC BY-SA 4.0",
+      "chars": 19508,
+      "path": "wikipedia\\harry_potter\\harry_potter_tv_series.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter video games",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter_video_games",
+      "license": "CC BY-SA 4.0",
+      "chars": 14625,
+      "path": "wikipedia\\harry_potter\\harry_potter_video_games.txt"
+    },
+    {
+      "name": "Wikipedia:Harry Potter: Wizards Unite",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Harry_Potter:_Wizards_Unite",
+      "license": "CC BY-SA 4.0",
+      "chars": 4434,
+      "path": "wikipedia\\harry_potter\\harry_potter_wizards_unite.txt"
+    },
+    {
+      "name": "Wikipedia:Hermione Granger",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hermione_Granger",
+      "license": "CC BY-SA 4.0",
+      "chars": 15815,
+      "path": "wikipedia\\harry_potter\\hermione_granger.txt"
+    },
+    {
+      "name": "Wikipedia:Hogwarts",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hogwarts",
+      "license": "CC BY-SA 4.0",
+      "chars": 7105,
+      "path": "wikipedia\\harry_potter\\hogwarts.txt"
+    },
+    {
+      "name": "Wikipedia:Hogwarts: An Incomplete and Unreliable Guide",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hogwarts:_An_Incomplete_and_Unreliable_Guide",
+      "license": "CC BY-SA 4.0",
+      "chars": 1065,
+      "path": "wikipedia\\harry_potter\\hogwarts_an_incomplete_and_unreliable_guide.txt"
+    },
+    {
+      "name": "Wikipedia:Hogwarts Express (Universal Orlando Resort)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hogwarts_Express_(Universal_Orlando_Resort)",
+      "license": "CC BY-SA 4.0",
+      "chars": 15360,
+      "path": "wikipedia\\harry_potter\\hogwarts_express_universal_orlando_resort.txt"
+    },
+    {
+      "name": "Wikipedia:Hogwarts Legacy",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hogwarts_Legacy",
+      "license": "CC BY-SA 4.0",
+      "chars": 31689,
+      "path": "wikipedia\\harry_potter\\hogwarts_legacy.txt"
+    },
+    {
+      "name": "Wikipedia:Hogwarts School of Prayer and Miracles",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hogwarts_School_of_Prayer_and_Miracles",
+      "license": "CC BY-SA 4.0",
+      "chars": 3951,
+      "path": "wikipedia\\harry_potter\\hogwarts_school_of_prayer_and_miracles.txt"
+    },
+    {
+      "name": "Wikipedia:Magical objects in Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Magical_objects_in_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 48062,
+      "path": "wikipedia\\harry_potter\\horcrux.txt"
+    },
+    {
+      "name": "Wikipedia:House system",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/House_system",
+      "license": "CC BY-SA 4.0",
+      "chars": 10012,
+      "path": "wikipedia\\harry_potter\\house_system.txt"
+    },
+    {
+      "name": "Wikipedia:Lego Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Lego_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 14792,
+      "path": "wikipedia\\harry_potter\\lego_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Lego Masters (Australian TV series) season 7",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Lego_Masters_(Australian_TV_series)_season_7",
+      "license": "CC BY-SA 4.0",
+      "chars": 6918,
+      "path": "wikipedia\\harry_potter\\lego_masters_australian_tv_series_season_7.txt"
+    },
+    {
+      "name": "Wikipedia:Levi Pinfold",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Levi_Pinfold",
+      "license": "CC BY-SA 4.0",
+      "chars": 2342,
+      "path": "wikipedia\\harry_potter\\levi_pinfold.txt"
+    },
+    {
+      "name": "Wikipedia:List of Fantastic Beasts characters",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/List_of_Fantastic_Beasts_characters",
+      "license": "CC BY-SA 4.0",
+      "chars": 14734,
+      "path": "wikipedia\\harry_potter\\list_of_fantastic_beasts_characters.txt"
+    },
+    {
+      "name": "Wikipedia:List of Harry Potter characters",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/List_of_Harry_Potter_characters",
+      "license": "CC BY-SA 4.0",
+      "chars": 39905,
+      "path": "wikipedia\\harry_potter\\list_of_harry_potter_characters.txt"
+    },
+    {
+      "name": "Wikipedia:Voldemort",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Voldemort",
+      "license": "CC BY-SA 4.0",
+      "chars": 35260,
+      "path": "wikipedia\\harry_potter\\lord_voldemort.txt"
+    },
+    {
+      "name": "Wikipedia:Love Is Love (comics)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Love_Is_Love_(comics)",
+      "license": "CC BY-SA 4.0",
+      "chars": 2244,
+      "path": "wikipedia\\harry_potter\\love_is_love_comics.txt"
+    },
+    {
+      "name": "Wikipedia:Luna Lovegood",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Luna_Lovegood",
+      "license": "CC BY-SA 4.0",
+      "chars": 5045,
+      "path": "wikipedia\\harry_potter\\luna_lovegood.txt"
+    },
+    {
+      "name": "Wikipedia:Fictional universe of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Fictional_universe_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 19382,
+      "path": "wikipedia\\harry_potter\\magic_in_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Magical objects in Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Magical_objects_in_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 48062,
+      "path": "wikipedia\\harry_potter\\magical_objects_in_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:MinaLima",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/MinaLima",
+      "license": "CC BY-SA 4.0",
+      "chars": 4128,
+      "path": "wikipedia\\harry_potter\\minalima.txt"
+    },
+    {
+      "name": "Wikipedia:Minerva McGonagall",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Minerva_McGonagall",
+      "license": "CC BY-SA 4.0",
+      "chars": 5762,
+      "path": "wikipedia\\harry_potter\\minerva_mcgonagall.txt"
+    },
+    {
+      "name": "Wikipedia:Neville Longbottom",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Neville_Longbottom",
+      "license": "CC BY-SA 4.0",
+      "chars": 10263,
+      "path": "wikipedia\\harry_potter\\neville_longbottom.txt"
+    },
+    {
+      "name": "Wikipedia:Newt Scamander",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Newt_Scamander",
+      "license": "CC BY-SA 4.0",
+      "chars": 18807,
+      "path": "wikipedia\\harry_potter\\newt_scamander.txt"
+    },
+    {
+      "name": "Wikipedia:Outline of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Outline_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 6239,
+      "path": "wikipedia\\harry_potter\\outline_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Parodies of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Parodies_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 58217,
+      "path": "wikipedia\\harry_potter\\parodies_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Places in Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Places_in_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 16277,
+      "path": "wikipedia\\harry_potter\\places_in_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Politics of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Politics_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 35035,
+      "path": "wikipedia\\harry_potter\\politics_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Puffs, or Seven Increasingly Eventful Years at a Certain School of Magic and Magic",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Puffs,_or_Seven_Increasingly_Eventful_Years_at_a_Certain_School_of_Magic_and_Magic",
+      "license": "CC BY-SA 4.0",
+      "chars": 18658,
+      "path": "wikipedia\\harry_potter\\puffs_or_seven_increasingly_eventful_years_at_a_certain_school_of_magic_and_magi.txt"
+    },
+    {
+      "name": "Wikipedia:Quidditch",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Quidditch",
+      "license": "CC BY-SA 4.0",
+      "chars": 12321,
+      "path": "wikipedia\\harry_potter\\quidditch.txt"
+    },
+    {
+      "name": "Wikipedia:Remus Lupin",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Remus_Lupin",
+      "license": "CC BY-SA 4.0",
+      "chars": 12840,
+      "path": "wikipedia\\harry_potter\\remus_lupin.txt"
+    },
+    {
+      "name": "Wikipedia:Ron Weasley",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Ron_Weasley",
+      "license": "CC BY-SA 4.0",
+      "chars": 12950,
+      "path": "wikipedia\\harry_potter\\ron_weasley.txt"
+    },
+    {
+      "name": "Wikipedia:Hagrid",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Hagrid",
+      "license": "CC BY-SA 4.0",
+      "chars": 14494,
+      "path": "wikipedia\\harry_potter\\rubeus_hagrid.txt"
+    },
+    {
+      "name": "Wikipedia:Severus Snape",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Severus_Snape",
+      "license": "CC BY-SA 4.0",
+      "chars": 39058,
+      "path": "wikipedia\\harry_potter\\severus_snape.txt"
+    },
+    {
+      "name": "Wikipedia:Sirius Black",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Sirius_Black",
+      "license": "CC BY-SA 4.0",
+      "chars": 17881,
+      "path": "wikipedia\\harry_potter\\sirius_black.txt"
+    },
+    {
+      "name": "Wikipedia:Sirius Black",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Sirius_Black",
+      "license": "CC BY-SA 4.0",
+      "chars": 17881,
+      "path": "wikipedia\\harry_potter\\sirius_black_character.txt"
+    },
+    {
+      "name": "Wikipedia:The Secret of Platform 13",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/The_Secret_of_Platform_13",
+      "license": "CC BY-SA 4.0",
+      "chars": 6262,
+      "path": "wikipedia\\harry_potter\\the_secret_of_platform_13.txt"
+    },
+    {
+      "name": "Wikipedia:The Wizarding World of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/The_Wizarding_World_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 5937,
+      "path": "wikipedia\\harry_potter\\the_wizarding_world_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:The Wizarding World of Harry Potter (Universal Orlando Resort)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/The_Wizarding_World_of_Harry_Potter_(Universal_Orlando_Resort)",
+      "license": "CC BY-SA 4.0",
+      "chars": 19835,
+      "path": "wikipedia\\harry_potter\\the_wizarding_world_of_harry_potter_universal_orlando_resort.txt"
+    },
+    {
+      "name": "Wikipedia:The Wizarding World of Harry Potter (Universal Studios Beijing)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/The_Wizarding_World_of_Harry_Potter_(Universal_Studios_Beijing)",
+      "license": "CC BY-SA 4.0",
+      "chars": 2104,
+      "path": "wikipedia\\harry_potter\\the_wizarding_world_of_harry_potter_universal_studios_beijing.txt"
+    },
+    {
+      "name": "Wikipedia:The Wizarding World of Harry Potter (Universal Studios Hollywood)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/The_Wizarding_World_of_Harry_Potter_(Universal_Studios_Hollywood)",
+      "license": "CC BY-SA 4.0",
+      "chars": 5003,
+      "path": "wikipedia\\harry_potter\\the_wizarding_world_of_harry_potter_universal_studios_hollywood.txt"
+    },
+    {
+      "name": "Wikipedia:The Wizarding World of Harry Potter (Universal Studios Japan)",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/The_Wizarding_World_of_Harry_Potter_(Universal_Studios_Japan)",
+      "license": "CC BY-SA 4.0",
+      "chars": 758,
+      "path": "wikipedia\\harry_potter\\the_wizarding_world_of_harry_potter_universal_studios_japan.txt"
+    },
+    {
+      "name": "Wikipedia:Voldemort",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Voldemort",
+      "license": "CC BY-SA 4.0",
+      "chars": 35260,
+      "path": "wikipedia\\harry_potter\\voldemort.txt"
+    },
+    {
+      "name": "Wikipedia:Voldemort effect",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Voldemort_effect",
+      "license": "CC BY-SA 4.0",
+      "chars": 22276,
+      "path": "wikipedia\\harry_potter\\voldemort_effect.txt"
+    },
+    {
+      "name": "Wikipedia:Voldemort: Origins of the Heir",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Voldemort:_Origins_of_the_Heir",
+      "license": "CC BY-SA 4.0",
+      "chars": 6778,
+      "path": "wikipedia\\harry_potter\\voldemort_origins_of_the_heir.txt"
+    },
+    {
+      "name": "Wikipedia:Warner Bros. Studio Tour London – The Making of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Warner_Bros._Studio_Tour_London_–_The_Making_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 9636,
+      "path": "wikipedia\\harry_potter\\warner_bros_studio_tour_london_the_making_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Warner Bros. Studio Tour Shanghai – The Making of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Warner_Bros._Studio_Tour_Shanghai_–_The_Making_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 1861,
+      "path": "wikipedia\\harry_potter\\warner_bros_studio_tour_shanghai_the_making_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Warner Bros. Studio Tour Tokyo – The Making of Harry Potter",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Warner_Bros._Studio_Tour_Tokyo_–_The_Making_of_Harry_Potter",
+      "license": "CC BY-SA 4.0",
+      "chars": 3484,
+      "path": "wikipedia\\harry_potter\\warner_bros_studio_tour_tokyo_the_making_of_harry_potter.txt"
+    },
+    {
+      "name": "Wikipedia:Wizard People, Dear Reader",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Wizard_People,_Dear_Reader",
+      "license": "CC BY-SA 4.0",
+      "chars": 7382,
+      "path": "wikipedia\\harry_potter\\wizard_people_dear_reader.txt"
+    },
+    {
+      "name": "Wikipedia:Wizarding World",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Wizarding_World",
+      "license": "CC BY-SA 4.0",
+      "chars": 43198,
+      "path": "wikipedia\\harry_potter\\wizarding_world.txt"
+    },
+    {
+      "name": "Wikipedia:Wizarding World Digital",
+      "source": "Wikipedia",
+      "topic": "harry_potter",
+      "url": "https://en.wikipedia.org/w/wiki/Wizarding_World_Digital",
+      "license": "CC BY-SA 4.0",
+      "chars": 15781,
+      "path": "wikipedia\\harry_potter\\wizarding_world_digital.txt"
+    },
+    {
+      "name": "Wikipedia:A Double Barrelled Detective Story",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/A_Double_Barrelled_Detective_Story",
+      "license": "CC BY-SA 4.0",
+      "chars": 2145,
+      "path": "wikipedia\\sherlock_holmes\\a_double_barrelled_detective_story.txt"
+    },
+    {
+      "name": "Wikipedia:A Study in Emerald",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/A_Study_in_Emerald",
+      "license": "CC BY-SA 4.0",
+      "chars": 9338,
+      "path": "wikipedia\\sherlock_holmes\\a_study_in_emerald.txt"
+    },
+    {
+      "name": "Wikipedia:A Study in Scarlet",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/A_Study_in_Scarlet",
+      "license": "CC BY-SA 4.0",
+      "chars": 19872,
+      "path": "wikipedia\\sherlock_holmes\\a_study_in_scarlet.txt"
+    },
+    {
+      "name": "Wikipedia:A Taste for Honey",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/A_Taste_for_Honey",
+      "license": "CC BY-SA 4.0",
+      "chars": 1624,
+      "path": "wikipedia\\sherlock_holmes\\a_taste_for_honey.txt"
+    },
+    {
+      "name": "Wikipedia:A Three-Pipe Problem",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/A_Three-Pipe_Problem",
+      "license": "CC BY-SA 4.0",
+      "chars": 693,
+      "path": "wikipedia\\sherlock_holmes\\a_three_pipe_problem.txt"
+    },
+    {
+      "name": "Wikipedia:Arsène Lupin versus Herlock Sholmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Arsène_Lupin_versus_Herlock_Sholmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 5092,
+      "path": "wikipedia\\sherlock_holmes\\ars_ne_lupin_versus_herlock_sholmes.txt"
+    },
+    {
+      "name": "Wikipedia:Arthur Conan Doyle",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Arthur_Conan_Doyle",
+      "license": "CC BY-SA 4.0",
+      "chars": 40090,
+      "path": "wikipedia\\sherlock_holmes\\arthur_conan_doyle.txt"
+    },
+    {
+      "name": "Wikipedia:Detective fiction",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Detective_fiction",
+      "license": "CC BY-SA 4.0",
+      "chars": 54399,
+      "path": "wikipedia\\sherlock_holmes\\detective_fiction.txt"
+    },
+    {
+      "name": "Wikipedia:Dr. Jekyll and Mr. Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Dr._Jekyll_and_Mr._Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 1374,
+      "path": "wikipedia\\sherlock_holmes\\dr_jekyll_and_mr_holmes.txt"
+    },
+    {
+      "name": "Wikipedia:Dr. Watson",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Dr._Watson",
+      "license": "CC BY-SA 4.0",
+      "chars": 31976,
+      "path": "wikipedia\\sherlock_holmes\\dr_watson.txt"
+    },
+    {
+      "name": "Wikipedia:Dust and Shadow",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Dust_and_Shadow",
+      "license": "CC BY-SA 4.0",
+      "chars": 5723,
+      "path": "wikipedia\\sherlock_holmes\\dust_and_shadow.txt"
+    },
+    {
+      "name": "Wikipedia:Moriarty (novel)",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Moriarty_(novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 1024,
+      "path": "wikipedia\\sherlock_holmes\\moriarty_novel.txt"
+    },
+    {
+      "name": "Wikipedia:Moriarty: The Hound of the D'Urbervilles",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Moriarty:_The_Hound_of_the_D'Urbervilles",
+      "license": "CC BY-SA 4.0",
+      "chars": 686,
+      "path": "wikipedia\\sherlock_holmes\\moriarty_the_hound_of_the_d_urbervilles.txt"
+    },
+    {
+      "name": "Wikipedia:Murder At Sorrow's Crown",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Murder_At_Sorrow's_Crown",
+      "license": "CC BY-SA 4.0",
+      "chars": 692,
+      "path": "wikipedia\\sherlock_holmes\\murder_at_sorrow_s_crown.txt"
+    },
+    {
+      "name": "Wikipedia:Mycroft and Sherlock",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Mycroft_and_Sherlock",
+      "license": "CC BY-SA 4.0",
+      "chars": 1396,
+      "path": "wikipedia\\sherlock_holmes\\mycroft_and_sherlock.txt"
+    },
+    {
+      "name": "Wikipedia:Mycroft and Sherlock: The Empty Birdcage",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Mycroft_and_Sherlock:_The_Empty_Birdcage",
+      "license": "CC BY-SA 4.0",
+      "chars": 984,
+      "path": "wikipedia\\sherlock_holmes\\mycroft_and_sherlock_the_empty_birdcage.txt"
+    },
+    {
+      "name": "Wikipedia:Mycroft Holmes (novel)",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Mycroft_Holmes_(novel)",
+      "license": "CC BY-SA 4.0",
+      "chars": 3308,
+      "path": "wikipedia\\sherlock_holmes\\mycroft_holmes_novel.txt"
+    },
+    {
+      "name": "Wikipedia:Professor Moriarty",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Professor_Moriarty",
+      "license": "CC BY-SA 4.0",
+      "chars": 16923,
+      "path": "wikipedia\\sherlock_holmes\\professor_moriarty.txt"
+    },
+    {
+      "name": "Wikipedia:Seance for a Vampire",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Seance_for_a_Vampire",
+      "license": "CC BY-SA 4.0",
+      "chars": 1267,
+      "path": "wikipedia\\sherlock_holmes\\seance_for_a_vampire.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 61679,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Christmas Demon",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Christmas_Demon",
+      "license": "CC BY-SA 4.0",
+      "chars": 1145,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_christmas_demon.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Man from Hell",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Man_from_Hell",
+      "license": "CC BY-SA 4.0",
+      "chars": 1186,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_man_from_hell.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Miskatonic Monstrosities",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Miskatonic_Monstrosities",
+      "license": "CC BY-SA 4.0",
+      "chars": 1249,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_miskatonic_monstrosities.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Servants of Hell",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Servants_of_Hell",
+      "license": "CC BY-SA 4.0",
+      "chars": 1191,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_servants_of_hell.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Shadwell Shadows",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Shadwell_Shadows",
+      "license": "CC BY-SA 4.0",
+      "chars": 1496,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_shadwell_shadows.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Sussex Sea-Devils",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Sussex_Sea-Devils",
+      "license": "CC BY-SA 4.0",
+      "chars": 1868,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_sussex_sea_devils.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes and the Telegram from Hell",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_and_the_Telegram_from_Hell",
+      "license": "CC BY-SA 4.0",
+      "chars": 670,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_and_the_telegram_from_hell.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes of Baker Street",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_of_Baker_Street",
+      "license": "CC BY-SA 4.0",
+      "chars": 1516,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_of_baker_street.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes's War of the Worlds",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes's_War_of_the_Worlds",
+      "license": "CC BY-SA 4.0",
+      "chars": 1486,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_s_war_of_the_worlds.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes: The Army of Dr. Moreau",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes:_The_Army_of_Dr._Moreau",
+      "license": "CC BY-SA 4.0",
+      "chars": 930,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_the_army_of_dr_moreau.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes: The Breath of God",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes:_The_Breath_of_God",
+      "license": "CC BY-SA 4.0",
+      "chars": 784,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_the_breath_of_god.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes: The Unauthorized Biography",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes:_The_Unauthorized_Biography",
+      "license": "CC BY-SA 4.0",
+      "chars": 2132,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_the_unauthorized_biography.txt"
+    },
+    {
+      "name": "Wikipedia:Sherlock Holmes vs. Dracula",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/Sherlock_Holmes_vs._Dracula",
+      "license": "CC BY-SA 4.0",
+      "chars": 895,
+      "path": "wikipedia\\sherlock_holmes\\sherlock_holmes_vs_dracula.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of Foulkes Rath",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_Foulkes_Rath",
+      "license": "CC BY-SA 4.0",
+      "chars": 1007,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_foulkes_rath.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Abbas Ruby",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Abbas_Ruby",
+      "license": "CC BY-SA 4.0",
+      "chars": 1017,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_abbas_ruby.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Black Baronet",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Black_Baronet",
+      "license": "CC BY-SA 4.0",
+      "chars": 1346,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_black_baronet.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Dark Angels",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Dark_Angels",
+      "license": "CC BY-SA 4.0",
+      "chars": 923,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_dark_angels.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Deptford Horror",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Deptford_Horror",
+      "license": "CC BY-SA 4.0",
+      "chars": 1200,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_deptford_horror.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Ectoplasmic Man",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Ectoplasmic_Man",
+      "license": "CC BY-SA 4.0",
+      "chars": 660,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_ectoplasmic_man.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Gold Hunter",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Gold_Hunter",
+      "license": "CC BY-SA 4.0",
+      "chars": 1408,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_gold_hunter.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Highgate Miracle",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Highgate_Miracle",
+      "license": "CC BY-SA 4.0",
+      "chars": 1002,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_highgate_miracle.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Peculiar Protocols",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Peculiar_Protocols",
+      "license": "CC BY-SA 4.0",
+      "chars": 1339,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_peculiar_protocols.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Peerless Peer",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Peerless_Peer",
+      "license": "CC BY-SA 4.0",
+      "chars": 1691,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_peerless_peer.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Red Widow",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Red_Widow",
+      "license": "CC BY-SA 4.0",
+      "chars": 845,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_red_widow.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Sealed Room",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Sealed_Room",
+      "license": "CC BY-SA 4.0",
+      "chars": 1533,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_sealed_room.txt"
+    },
+    {
+      "name": "Wikipedia:The Exploits of Sherlock Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Exploits_of_Sherlock_Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 4938,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_seven_clocks.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Two Women",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Two_Women",
+      "license": "CC BY-SA 4.0",
+      "chars": 1021,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_two_women.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventure of the Wax Gamblers",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventure_of_the_Wax_Gamblers",
+      "license": "CC BY-SA 4.0",
+      "chars": 950,
+      "path": "wikipedia\\sherlock_holmes\\the_adventure_of_the_wax_gamblers.txt"
+    },
+    {
+      "name": "Wikipedia:The Adventures of Sherlock Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Adventures_of_Sherlock_Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 7438,
+      "path": "wikipedia\\sherlock_holmes\\the_adventures_of_sherlock_holmes.txt"
+    },
+    {
+      "name": "Wikipedia:The Albino's Treasure",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Albino's_Treasure",
+      "license": "CC BY-SA 4.0",
+      "chars": 957,
+      "path": "wikipedia\\sherlock_holmes\\the_albino_s_treasure.txt"
+    },
+    {
+      "name": "Wikipedia:The Boy Sherlock Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Boy_Sherlock_Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 1145,
+      "path": "wikipedia\\sherlock_holmes\\the_boy_sherlock_holmes.txt"
+    },
+    {
+      "name": "Wikipedia:The Canary Trainer",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Canary_Trainer",
+      "license": "CC BY-SA 4.0",
+      "chars": 6977,
+      "path": "wikipedia\\sherlock_holmes\\the_canary_trainer.txt"
+    },
+    {
+      "name": "Wikipedia:The Counterfeit Detective",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Counterfeit_Detective",
+      "license": "CC BY-SA 4.0",
+      "chars": 757,
+      "path": "wikipedia\\sherlock_holmes\\the_counterfeit_detective.txt"
+    },
+    {
+      "name": "Wikipedia:The Devil's Promise",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Devil's_Promise",
+      "license": "CC BY-SA 4.0",
+      "chars": 639,
+      "path": "wikipedia\\sherlock_holmes\\the_devil_s_promise.txt"
+    },
+    {
+      "name": "Wikipedia:The Doctor's Case",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Doctor's_Case",
+      "license": "CC BY-SA 4.0",
+      "chars": 4944,
+      "path": "wikipedia\\sherlock_holmes\\the_doctor_s_case.txt"
+    },
+    {
+      "name": "Wikipedia:The Hound of the Baskervilles",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Hound_of_the_Baskervilles",
+      "license": "CC BY-SA 4.0",
+      "chars": 18980,
+      "path": "wikipedia\\sherlock_holmes\\the_hound_of_the_baskervilles.txt"
+    },
+    {
+      "name": "Wikipedia:The House of Silk",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_House_of_Silk",
+      "license": "CC BY-SA 4.0",
+      "chars": 3226,
+      "path": "wikipedia\\sherlock_holmes\\the_house_of_silk.txt"
+    },
+    {
+      "name": "Wikipedia:The Italian Secretary",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Italian_Secretary",
+      "license": "CC BY-SA 4.0",
+      "chars": 2564,
+      "path": "wikipedia\\sherlock_holmes\\the_italian_secretary.txt"
+    },
+    {
+      "name": "Wikipedia:The Kentish Manor Murders",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Kentish_Manor_Murders",
+      "license": "CC BY-SA 4.0",
+      "chars": 679,
+      "path": "wikipedia\\sherlock_holmes\\the_kentish_manor_murders.txt"
+    },
+    {
+      "name": "Wikipedia:The Last Sherlock Holmes Story",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Last_Sherlock_Holmes_Story",
+      "license": "CC BY-SA 4.0",
+      "chars": 679,
+      "path": "wikipedia\\sherlock_holmes\\the_last_sherlock_holmes_story.txt"
+    },
+    {
+      "name": "Wikipedia:The Memoirs of Sherlock Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Memoirs_of_Sherlock_Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 4408,
+      "path": "wikipedia\\sherlock_holmes\\the_memoirs_of_sherlock_holmes.txt"
+    },
+    {
+      "name": "Wikipedia:The Other Log of Phileas Fogg",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Other_Log_of_Phileas_Fogg",
+      "license": "CC BY-SA 4.0",
+      "chars": 3354,
+      "path": "wikipedia\\sherlock_holmes\\the_other_log_of_phileas_fogg.txt"
+    },
+    {
+      "name": "Wikipedia:The Prisoner of the Devil",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Prisoner_of_the_Devil",
+      "license": "CC BY-SA 4.0",
+      "chars": 530,
+      "path": "wikipedia\\sherlock_holmes\\the_prisoner_of_the_devil.txt"
+    },
+    {
+      "name": "Wikipedia:The Return of Sherlock Holmes",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Return_of_Sherlock_Holmes",
+      "license": "CC BY-SA 4.0",
+      "chars": 2340,
+      "path": "wikipedia\\sherlock_holmes\\the_return_of_sherlock_holmes.txt"
+    },
+    {
+      "name": "Wikipedia:The Return of the Pharaoh",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Return_of_the_Pharaoh",
+      "license": "CC BY-SA 4.0",
+      "chars": 863,
+      "path": "wikipedia\\sherlock_holmes\\the_return_of_the_pharaoh.txt"
+    },
+    {
+      "name": "Wikipedia:The Revenge of the Hound",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Revenge_of_the_Hound",
+      "license": "CC BY-SA 4.0",
+      "chars": 820,
+      "path": "wikipedia\\sherlock_holmes\\the_revenge_of_the_hound.txt"
+    },
+    {
+      "name": "Wikipedia:The Ripper Legacy",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Ripper_Legacy",
+      "license": "CC BY-SA 4.0",
+      "chars": 562,
+      "path": "wikipedia\\sherlock_holmes\\the_ripper_legacy.txt"
+    },
+    {
+      "name": "Wikipedia:The Scroll of the Dead",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Scroll_of_the_Dead",
+      "license": "CC BY-SA 4.0",
+      "chars": 1056,
+      "path": "wikipedia\\sherlock_holmes\\the_scroll_of_the_dead.txt"
+    },
+    {
+      "name": "Wikipedia:The Seven-Per-Cent Solution",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Seven-Per-Cent_Solution",
+      "license": "CC BY-SA 4.0",
+      "chars": 8665,
+      "path": "wikipedia\\sherlock_holmes\\the_seven_per_cent_solution.txt"
+    },
+    {
+      "name": "Wikipedia:The Shadow of Reichenbach Falls",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Shadow_of_Reichenbach_Falls",
+      "license": "CC BY-SA 4.0",
+      "chars": 862,
+      "path": "wikipedia\\sherlock_holmes\\the_shadow_of_reichenbach_falls.txt"
+    },
+    {
+      "name": "Wikipedia:The Sign of the Four",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Sign_of_the_Four",
+      "license": "CC BY-SA 4.0",
+      "chars": 10763,
+      "path": "wikipedia\\sherlock_holmes\\the_sign_of_the_four.txt"
+    },
+    {
+      "name": "Wikipedia:The Strange Case of Mrs. Hudson's Cat",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Strange_Case_of_Mrs._Hudson's_Cat",
+      "license": "CC BY-SA 4.0",
+      "chars": 1015,
+      "path": "wikipedia\\sherlock_holmes\\the_strange_case_of_mrs_hudson_s_cat.txt"
+    },
+    {
+      "name": "Wikipedia:The Strange Case of the Alchemist's Daughter",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Strange_Case_of_the_Alchemist's_Daughter",
+      "license": "CC BY-SA 4.0",
+      "chars": 7997,
+      "path": "wikipedia\\sherlock_holmes\\the_strange_case_of_the_alchemist_s_daughter.txt"
+    },
+    {
+      "name": "Wikipedia:The Veiled Detective",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Veiled_Detective",
+      "license": "CC BY-SA 4.0",
+      "chars": 1133,
+      "path": "wikipedia\\sherlock_holmes\\the_veiled_detective.txt"
+    },
+    {
+      "name": "Wikipedia:The West End Horror",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_West_End_Horror",
+      "license": "CC BY-SA 4.0",
+      "chars": 2167,
+      "path": "wikipedia\\sherlock_holmes\\the_west_end_horror.txt"
+    },
+    {
+      "name": "Wikipedia:The Whitechapel Horrors",
+      "source": "Wikipedia",
+      "topic": "sherlock_holmes",
+      "url": "https://en.wikipedia.org/w/wiki/The_Whitechapel_Horrors",
+      "license": "CC BY-SA 4.0",
+      "chars": 1114,
+      "path": "wikipedia\\sherlock_holmes\\the_whitechapel_horrors.txt"
+    }
+  ]
+}

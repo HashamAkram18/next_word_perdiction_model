@@ -1,0 +1,17 @@
+{
+  "model_id": "dostoevsky_notes_residual_gru",
+  "name": "Dostoevsky Notes (RESIDUAL_GRU)",
+  "arch": "residual_gru",
+  "input_length": 39,
+  "vocab_size": 439,
+  "model_filename": "dostoevsky_notes_residual_gru.keras",
+  "tokenizer_filename": "dostoevsky_notes_residual_gru_tokenizer.json",
+  "description": "Trained on dostoevsky_notes.txt using RESIDUAL_GRU architecture.",
+  "metrics": {
+    "final_loss": 0.0889,
+    "final_accuracy": 0.9775,
+    "perplexity": 1.09,
+    "epochs_trained": 25,
+    "train_duration_sec": 79.26
+  }
+}
