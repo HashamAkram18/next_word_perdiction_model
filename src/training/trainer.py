@@ -57,6 +57,7 @@ class ModelTrainer:
             texts=texts,
             tokenizer=tokenizer,
             max_sequence_length=self.model_config.max_sequence_length,
+            max_samples=self.training_config.max_samples,
         )
         seq_length = X.shape[1]
         print(f"[Trainer] Generated {len(X):,} training sequences. Input sequence length: {seq_length}")

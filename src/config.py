@@ -17,6 +17,7 @@ class TrainingConfig:
     epochs: int = 40
     batch_size: int = 64
     learning_rate: float = 0.002
+    max_samples: int = 30000
     validation_split: float = 0.1
     early_stopping_patience: int = 8
     reduce_lr_patience: int = 4

@@ -76,6 +76,7 @@ def main():
     parser.add_argument("--hidden-units", type=int, default=128, help="Hidden units per layer.")
     parser.add_argument("--max-seq-len", type=int, default=40, help="Maximum n-gram sequence length.")
     parser.add_argument("--vocab-size", type=int, default=4000, help="Maximum vocabulary size.")
+    parser.add_argument("--max-samples", type=int, default=30000, help="Maximum sliding-window sequences to extract for training.")
     parser.add_argument("--learning-rate", type=float, default=0.003, help="Learning rate.")
     parser.add_argument("--fetch-datasets", action="store_true", help="Force refresh all remote datasets.")
 
@@ -108,6 +109,7 @@ def main():
         epochs=args.epochs,
         batch_size=args.batch_size,
         learning_rate=args.learning_rate,
+        max_samples=args.max_samples,
     )
 
     trainer = ModelTrainer(model_config=model_config, training_config=training_config)
