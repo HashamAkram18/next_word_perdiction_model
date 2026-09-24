@@ -44,7 +44,13 @@ def create_fastapi_app(default_model_id: Optional[str] = None) -> FastAPI:
     registry = ModelRegistry()
     available = registry.list_models()
     if not default_model_id:
-        if "harry_potter_lore_stacked_lstm" in available:
+        if "corpus_gutenberg_dostoevsky_residual_gru" in available:
+            default_model_id = "corpus_gutenberg_dostoevsky_residual_gru"
+        elif "dostoevsky_notes_residual_gru" in available:
+            default_model_id = "dostoevsky_notes_residual_gru"
+        elif "harry_potter_lore_residual_lstm" in available:
+            default_model_id = "harry_potter_lore_residual_lstm"
+        elif "harry_potter_lore_stacked_lstm" in available:
             default_model_id = "harry_potter_lore_stacked_lstm"
         elif "dostoevsky_notes_stacked_gru" in available:
             default_model_id = "dostoevsky_notes_stacked_gru"
