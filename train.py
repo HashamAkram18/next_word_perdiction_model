@@ -79,6 +79,11 @@ def main():
     parser.add_argument("--max-samples", type=int, default=30000, help="Maximum sliding-window sequences to extract for training.")
     parser.add_argument("--learning-rate", type=float, default=0.003, help="Learning rate.")
     parser.add_argument("--fetch-datasets", action="store_true", help="Force refresh all remote datasets.")
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Resume training from an existing checkpoint, continuing epochs and retaining exact tokenizer vocabulary.",
+    )
 
     args = parser.parse_args()
 
@@ -118,6 +123,7 @@ def main():
         model_id=model_id,
         display_name=display_name,
         description=f"Trained on {data_path.name} using {args.arch.upper()} architecture.",
+        resume=args.resume,
     )
 
 if __name__ == "__main__":
